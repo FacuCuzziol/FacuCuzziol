@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Facundo Cuzziol
+### Systems Engineering Student :computer:
 <!--
 **FacuCuzziol/FacuCuzziol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<img align="left" alt="FacuCuzziol top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuCuzziol"/>
+### Languages and Tools
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">]
+</br>
+
+---
 <img align="left" alt="FacuCuzziol Github Stats" src="https://github-readme-stats.vercel.app/api?username=FacuCuzziol&show_icons=true&hide_border=true"/>
