@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+<img align="left" alt="FacuCuzziol top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuCuzziol"/>
 <img align="left" alt="FacuCuzziol Github Stats" src="https://github-readme-stats.vercel.app/api?username=FacuCuzziol&show_icons=true&hide_border=true"/>
