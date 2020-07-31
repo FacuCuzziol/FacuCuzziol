@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </br>
 
 ---
-<img align="left" alt="FacuCuzziol Github Stats" src="https://github-readme-stats.vercel.app/api?username=FacuCuzziol&show_icons=true&hide_border=true"/>
+<img align="left" alt="FacuCuzziol Github Stats" src="https://github-readme-stats.vercel.app/api?username=FacuCuzziol&show_icons=true&hide_border=true&theme=merko"/>
